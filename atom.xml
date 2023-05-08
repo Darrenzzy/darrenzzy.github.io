@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>LXT</title>
+  <title>张</title>
   
   
-  <link href="https://about.darrenzzy.cn/atom.xml" rel="self"/>
+  <link href="https://darrenzzy.github.io/atom.xml" rel="self"/>
   
-  <link href="https://about.darrenzzy.cn/"/>
-  <updated>2023-05-08T04:56:53.877Z</updated>
-  <id>https://about.darrenzzy.cn/</id>
+  <link href="https://darrenzzy.github.io/"/>
+  <updated>2023-05-08T05:51:45.482Z</updated>
+  <id>https://darrenzzy.github.io/</id>
   
   <author>
     <name>darrenzzy</name>
@@ -18,18 +18,18 @@
   
   <entry>
     <title>hi</title>
-    <link href="https://about.darrenzzy.cn/hi/"/>
-    <id>https://about.darrenzzy.cn/hi/</id>
+    <link href="https://darrenzzy.github.io/hi/"/>
+    <id>https://darrenzzy.github.io/hi/</id>
     <published>2022-04-01T00:16:40.000Z</published>
-    <updated>2023-05-08T04:56:53.877Z</updated>
+    <updated>2023-05-08T05:51:45.482Z</updated>
     
-    <content type="html"><![CDATA[<p>请走正道，谢谢</p><p>info: <a href="https://about.darrenzzy.cn">about.darrenzzy.cn</a></p>]]></content>
+    <content type="html"><![CDATA[<p>请走正道，谢谢</p><p>info: <a href="https://darrenzzy.github.io/">about.darrenzzy.cn</a></p>]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;请走正道，谢谢&lt;/p&gt;
-&lt;p&gt;info: &lt;a href=&quot;https://about.darrenzzy.cn&quot;&gt;about.darrenzzy.cn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;info: &lt;a href=&quot;https://darrenzzy.github.io/&quot;&gt;about.darrenzzy.cn&lt;/a&gt;&lt;/p&gt;
 </summary>
       
     
